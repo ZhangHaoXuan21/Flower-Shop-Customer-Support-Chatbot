@@ -1,6 +1,6 @@
 # Flower-Shop-Customer-Support-Chatbot
 ## 1. Project Overview
-- AI Chatbot with product recommendation, policy question and answering and shopping cart management features
+A simple AI Chatbot with product recommendation, policy question and answering and shopping cart management features
 
 ## 2. Agents Architecture
 ![Alt text](Flower-Shop-Customer-Support-Chatbot/agents.jpeg)
